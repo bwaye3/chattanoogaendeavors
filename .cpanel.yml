@@ -1,7 +1,7 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/chattanooga/public_html/staging
+    - export DEPLOYPATH=/home/chat/public_html/staging
     - /bin/cp -R * $DEPLOYPATH
 
 #deployment:
