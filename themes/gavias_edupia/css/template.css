@@ -561,7 +561,7 @@ header .header-main {
 header .site-branding-logo {
     padding: 15px 0 10px;
     display: inline-block;
-    max-height: 80px;
+    width: 200px;
 }
 
 @media (max-width: 991.98px) {
