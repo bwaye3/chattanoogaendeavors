@@ -137,10 +137,11 @@ sup {
 }
 
 a {
-    color: #222;
+    color: #b68d33;
     text-decoration: none;
     background-color: transparent;
     -webkit-text-decoration-skip: objects;
+    font-weight: 400;
 }
 
 a:hover {

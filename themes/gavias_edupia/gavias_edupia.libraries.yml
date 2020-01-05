@@ -144,6 +144,14 @@ gavias_edupia.skin.yellow:
       css/skins/yellow/bootstrap.css: {}
       css/skins/yellow/template.css: {}
 
+# Progress bar.
+progress-bar:
+  version: "1.0.x"
+  css:
+    base:
+      templates/block/progress_bar/css/progress-bar.css: {}
+  dependencies:
+    - core/jquery
 
 gavias-edupia-admin:
   version: VERSION
@@ -151,7 +159,6 @@ gavias-edupia-admin:
     theme: 
       css/theme-settings.css: {}
       vendor/colorpicker/css/colorpicker.css: {}
-      vendor/codemirror/lib/codemirror.css: {}
       vendor/codemirror/lib/codemirror.css: {}
       vendor/codemirror/addon/hint/show-hint.css: {}
   js:
