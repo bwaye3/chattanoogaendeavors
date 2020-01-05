@@ -12436,7 +12436,7 @@ ul[data-drupal-views-infinite-scroll-pager].pager a:hover, ul[data-drupal-views-
     padding: 3px 10px;
     background: #262626;
     color: #a4893d !important;
-    border: 2px solid #a4893d !important;
+    border: 2px solid transparent !important;
 }
 
 .gsc-button.mini:hover {
@@ -12453,7 +12453,7 @@ ul[data-drupal-views-infinite-scroll-pager].pager a:hover, ul[data-drupal-views-
     padding: 8px 15px;
     background: #262626;
     color: #a4893d !important;
-    border: 2px solid #a4893d !important;
+    border: 2px solid transparent !important;
 }
 
 .gsc-button.small:hover {
@@ -12470,7 +12470,7 @@ ul[data-drupal-views-infinite-scroll-pager].pager a:hover, ul[data-drupal-views-
     padding: 12px 35px;
     background: #262626;
     color: #a4893d !important;
-    border: 2px solid #a4893d !important;
+    border: 2px solid transparent !important;
 }
 
 .gsc-button.medium:hover {
@@ -12487,7 +12487,7 @@ ul[data-drupal-views-infinite-scroll-pager].pager a:hover, ul[data-drupal-views-
     padding: 18px 60px;
     background: #262626;
     color: #a4893d !important;
-    border: 2px solid #a4893d !important;
+    border: 2px solid transparent !important;
 }
 
 .gsc-button.large:hover {
@@ -12504,7 +12504,7 @@ ul[data-drupal-views-infinite-scroll-pager].pager a:hover, ul[data-drupal-views-
     padding: 20px 60px;
     background: #262626;
     color: #a4893d !important;
-    border: 2px solid #a4893d !important;
+    border: 2px solid transparent !important;
 }
 
 .gsc-button.extra-large:hover {
