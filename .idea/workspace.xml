@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c611d218-6b9c-4227-830d-eed2f4fed880" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sites/default/files/donations/Bob-Roberts-Youtube-246.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sites/default/files/donations/Endeavors-Case-Document-Post-1-pdf-232x300.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sites/default/files/donations/Placeholder-Youtube-AP-246.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sites/default/files/files-2020-01/Endeavors-Case-Document-Post-1.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_logo/small-logo.ai" beforeDir="false" afterPath="$PROJECT_DIR$/_logo/small-logo.ai" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/gavias_edupia/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/gavias_edupia/css/bootstrap.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/gavias_edupia/css/template.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/gavias_edupia/css/template.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/gavias_edupia/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/gavias_edupia/logo.svg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,7 +178,7 @@
       <updated>1578006406805</updated>
       <workItem from="1578006409103" duration="4442000" />
       <workItem from="1578087218304" duration="4869000" />
-      <workItem from="1578153730151" duration="13298000" />
+      <workItem from="1578153730151" duration="13624000" />
     </task>
     <servers />
   </component>
