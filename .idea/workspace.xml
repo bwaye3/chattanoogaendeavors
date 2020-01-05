@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c611d218-6b9c-4227-830d-eed2f4fed880" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/gavias_edupia/css/template.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/gavias_edupia/css/template.css" afterDir="false" />
-    </list>
+    <list default="true" id="c611d218-6b9c-4227-830d-eed2f4fed880" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -179,7 +176,7 @@
       <updated>1578006406805</updated>
       <workItem from="1578006409103" duration="4442000" />
       <workItem from="1578087218304" duration="4869000" />
-      <workItem from="1578153730151" duration="13937000" />
+      <workItem from="1578153730151" duration="14220000" />
     </task>
     <servers />
   </component>

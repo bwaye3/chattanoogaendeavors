@@ -12445,7 +12445,7 @@ ul[data-drupal-views-infinite-scroll-pager].pager a:hover, ul[data-drupal-views-
     color: #262626 !important;
     background: #a4893d !important;
     border: 2px solid #262626 !important;
-    text-decoration: none!important;
+    text-decoration: none !important;
 }
 
 .gsc-button.small {
@@ -12462,7 +12462,7 @@ ul[data-drupal-views-infinite-scroll-pager].pager a:hover, ul[data-drupal-views-
     color: #262626 !important;
     background: #a4893d !important;
     border: 2px solid #262626 !important;
-    text-decoration: none!important;
+    text-decoration: none !important;
 }
 
 .gsc-button.medium {
@@ -12479,7 +12479,7 @@ ul[data-drupal-views-infinite-scroll-pager].pager a:hover, ul[data-drupal-views-
     color: #262626 !important;
     background: #a4893d !important;
     border: 2px solid #262626 !important;
-    text-decoration: none!important;
+    text-decoration: none !important;
 }
 
 .gsc-button.large {
@@ -12496,7 +12496,7 @@ ul[data-drupal-views-infinite-scroll-pager].pager a:hover, ul[data-drupal-views-
     color: #262626 !important;
     background: #a4893d !important;
     border: 2px solid #262626 !important;
-    text-decoration: none!important;
+    text-decoration: none !important;
 }
 
 .gsc-button.extra-large {
@@ -12513,7 +12513,7 @@ ul[data-drupal-views-infinite-scroll-pager].pager a:hover, ul[data-drupal-views-
     color: #262626 !important;
     background: #a4893d !important;
     border: 2px solid #262626 !important;
-    text-decoration: none!important;
+    text-decoration: none !important;
 }
 
 .gsc-accordion .panel-body {
@@ -12529,6 +12529,7 @@ ul[data-drupal-views-infinite-scroll-pager].pager a:hover, ul[data-drupal-views-
 .gsc-accordion .panel-group.skin-dark {
     background: #f5f5f5;
 }
+
 
 .gsc-accordion .panel-group.skin-dark .panel {
     background: #f5f5f5;
